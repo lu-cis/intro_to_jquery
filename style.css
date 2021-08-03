@@ -1,0 +1,14 @@
+p {
+    background: #0D91A1;
+    color: #015668;
+    font-family: 'Oswald', sans-serif;
+    
+  }
+  
+  .shorthand-for-all-sides {
+    padding: 20px;
+    border: 5px solid #7DCE94;
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+  }
